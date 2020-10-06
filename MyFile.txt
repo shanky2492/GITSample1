@@ -1,4 +1,6 @@
 Hello Word
-
-added
-
+After you mastered the basic concepts, 
+you can come back to this page to 
+learn what commands Git offers. 
+You can learn more about individual Git commands
+with git help command
